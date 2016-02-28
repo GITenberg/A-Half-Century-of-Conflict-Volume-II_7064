@@ -1,0 +1,27 @@
+_repo: A-Half-Century-of-Conflict-Volume-II_7064
+creator:
+  author:
+    agent_name: Parkman, Francis
+    alias: Parkman, F. (Francis)
+    birthdate: 1823
+    deathdate: 1893
+    gutenberg_agent_id: '510'
+    url: http://www.gutenberg.org/2009/agents/510
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Parkman
+description: ''
+gutenberg_bookshelf: United States
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7064'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- History -- To 1763 (New France)'
+- !lcc 'E186'
+- !lcsh 'United States -- History -- Queen Anne''s War, 1702-1713'
+- !lcsh 'United States -- History -- Colonial period, ca. 1600-1775'
+title: A Half-Century of Conflict - Volume II
+url: http://www.gutenberg.org/ebooks/7064
